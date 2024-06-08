@@ -1,5 +1,5 @@
 ### Folder Structure  
-This repository houses the source code for a year-long data engineering project, encompassing a variety of problem statements. Each subfolder is carefully titled to represent the precise problem statement it addresses. This clear labeling facilitates easy navigation and identification of relevant code segments.  
+This folder houses the source code for a year-long data engineering project, encompassing a variety of problem statements. Each subfolder is carefully titled to represent the precise problem statement it addresses. This clear labeling facilitates easy navigation and identification of relevant code segments.  
 
 ### Problem Statements  
    - **Problem Statement 1:** Identify and handle missing values using advanced imputation techniques. Correct anomalies by identifying outliers using statistical methods and domain knowledge. Standardize data formats and ensure consistency across the dataset. Augment the dataset by generating synthetic data using data augmentation techniques and collecting additional data from public sports databases. Integrate this data into a unified dataset.  
